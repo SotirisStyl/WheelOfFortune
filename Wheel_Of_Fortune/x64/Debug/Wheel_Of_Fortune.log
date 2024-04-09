@@ -1,0 +1,4 @@
+﻿  Wheel_Of_Fortune.cpp
+C:\Users\User\OneDrive\Desktop\Uclan Year 3\Advanced Programming\Wheel_Of_Fortune\Wheel_Of_Fortune.cpp(330,43): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\OneDrive\Desktop\Uclan Year 3\Advanced Programming\Wheel_Of_Fortune\Wheel_Of_Fortune.cpp(338,43): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Wheel_Of_Fortune.vcxproj -> C:\Users\User\OneDrive\Desktop\Uclan Year 3\Advanced Programming\Wheel_Of_Fortune\x64\Debug\Wheel_Of_Fortune.exe
